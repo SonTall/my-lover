@@ -1,0 +1,11 @@
+.header {
+  &-title {
+    font-family: normal normal normal 42px/1.1em coquette-w00-light,sans-serif;
+  }
+
+  &-control-active {
+    color: rgb(29, 161, 242);
+    font-weight: 600;
+    transform: scale(1.2);
+  }
+}
